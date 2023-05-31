@@ -1,8 +1,8 @@
 Thanks for dropping by my profile.
 
 - 👋 Hi, I’m Domm
-- 👀 I’m interested in building cool projects with Python
-- 🌱 I’m currently working through TheOdinProject's fullstack JS content and freecodecamp's Python content
+- 👀 I’m interested in building cool projects.
+- 🌱 I’m currently working through Codecademy's fullstack dev track. 
 - 📫 How to reach me: dominic@honeycoin.app ; available for product & design consultations
 
 <!---
